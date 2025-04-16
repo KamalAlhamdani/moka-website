@@ -1,0 +1,176 @@
+[15-Feb-2020 12:16:42 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[15-Feb-2020 12:16:42 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[15-Feb-2020 12:16:48 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[15-Feb-2020 12:16:48 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[16-Feb-2020 06:12:58 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[16-Feb-2020 06:12:58 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[16-Feb-2020 06:13:00 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[16-Feb-2020 06:13:00 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[16-Feb-2020 06:13:11 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[16-Feb-2020 06:13:11 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[16-Feb-2020 06:13:57 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[16-Feb-2020 06:13:57 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[16-Feb-2020 06:14:00 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[16-Feb-2020 06:14:00 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[16-Feb-2020 06:15:09 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[16-Feb-2020 06:15:09 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[16-Feb-2020 06:15:54 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[16-Feb-2020 06:15:54 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[16-Feb-2020 06:29:49 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[16-Feb-2020 06:29:49 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[16-Feb-2020 06:30:29 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805
+[16-Feb-2020 06:30:29 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php:803
+Stack trace:
+#0 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(803): ReflectionClass->__construct('view')
+#1 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(681): Illuminate\Container\Container->build('view')
+#2 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(629): Illuminate\Container\Container->resolve('view', Array)
+#3 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(776): Illuminate\Container\Container->make('view', Array)
+#4 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php(1245): Illuminate\Foundation\Application->make('view')
+#5 /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/ in /home4/mokaswee/mokasweets/MokaWeb/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 805

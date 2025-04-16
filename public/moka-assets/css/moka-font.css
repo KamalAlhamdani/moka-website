@@ -1,0 +1,186 @@
+@font-face {
+    font-family: 'moka';
+    src:  url('../moka-font/moka.eot?gs53ey');
+    src:  url('../moka-font/moka.eot?gs53ey#iefix') format('embedded-opentype'),
+    url('../moka-font/moka.ttf?gs53ey') format('truetype'),
+    url('../moka-font/moka.woff?gs53ey') format('woff'),
+    url('../moka-font/moka.svg?gs53ey#moka') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="moka-"], [class*=" moka-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'moka' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.moka-Gateau:before {
+  content: "\e909";
+}
+.moka-Ice-Cream:before {
+  content: "\e90a";
+}
+.moka-Puff-Pastry:before {
+  content: "\e90b";
+}
+.moka-bread9:before {
+  content: "\e900";
+}
+.moka-cookies:before {
+  content: "\e901";
+}
+.moka-englishcake:before {
+  content: "\e902";
+}
+.moka-logo:before {
+  content: "\e903";
+}
+.moka-paklava:before {
+  content: "\e904";
+}
+.moka-pastry:before {
+  content: "\e905";
+}
+.moka-putifour:before {
+  content: "\e906";
+}
+.moka-shabora:before {
+  content: "\e907";
+}
+.moka-tort:before {
+  content: "\e908";
+}
+
+/* for header */
+.moka-Gateau-xx-large:before {
+    content: "\e909";
+    font-size: xx-large;
+    font-size: 46px;
+}
+.moka-Ice-Cream-xx-large:before {
+    content: "\e90a";
+    font-size: xx-large;
+    font-size: 46px;
+}
+.moka-Puff-Pastry-xx-large:before {
+    content: "\e90b";
+    font-size: xx-large;
+    font-size: 46px;
+}
+.moka-bread9-xx-large:before {
+    content: "\e900";
+    font-size: xx-large;
+    font-size: 46px;
+}
+.moka-cookies-xx-large:before {
+    content: "\e901";
+    font-size: xx-large;
+    font-size: 46px;
+}
+.moka-englishca-xx-largeke:before {
+    content: "\e902";
+    font-size: xx-large;
+    font-size: 46px;
+}
+.moka-logo-xx-large:before {
+    content: "\e903";
+    font-size: xx-large;
+    font-size: 46px;
+}
+.moka-paklava-xx-large:before {
+    content: "\e904";
+    font-size: xx-large;
+    font-size: 46px;
+}
+.moka-pastry-xx-large:before {
+    content: "\e905";
+    font-size: xx-large;
+    font-size: 46px;
+}
+.moka-putifour-xx-large:before {
+    content: "\e906";
+    font-size: xx-large;
+    font-size: 46px;
+}
+.moka-shabora-xx-large:before {
+    content: "\e907";
+    font-size: xx-large;
+    font-size: 46px;
+}
+.moka-tort-xx-large:before {
+    content: "\e908";
+    font-size: xx-large;
+    font-size: 46px;
+}
+
+/* for product filter */
+.moka-Gateau-s-large:before {
+    content: "\e909";
+    font-size: s-large;
+    font-size: 18px;
+}
+.moka-Ice-Cream-s-large:before {
+    content: "\e90a";
+    font-size: s-large;
+    font-size: 18px;
+}
+.moka-Puff-Pastry-s-large:before {
+    content: "\e90b";
+    font-size: s-large;
+    font-size: 18px;
+}
+.moka-bread9-s-large:before {
+    content: "\e900";
+    font-size: s-large;
+    font-size: 18px;
+}
+.moka-cookies-s-large:before {
+    content: "\e901";
+    font-size: s-large;
+    font-size: 18px;
+}
+.moka-englishca-s-largeke:before {
+    content: "\e902";
+    font-size: s-large;
+    font-size: 18px;
+}
+.moka-logo-s-large:before {
+    content: "\e903";
+    font-size: s-large;
+    font-size: 18px;
+  }
+  .moka-paklava-s-large:before {
+    content: "\e904";
+    font-size: s-large;
+    font-size: 18px;
+}
+.moka-pastry-s-large:before {
+    content: "\e905";
+    font-size: s-large;
+    font-size: 18px;
+}
+.moka-putifour-s-large:before {
+    content: "\e906";
+    font-size: s-large;
+    font-size: 18px;
+}
+.moka-shabora-s-large:before {
+    content: "\e907";
+    font-size: s-large;
+    font-size: 18px;
+}
+.moka-tort-s-large:before {
+    content: "\e908";
+    font-size: s-large;
+    font-size: 18px;
+}
