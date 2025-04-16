@@ -9,7 +9,7 @@
  * @license  IC https://www.infinitecloud.co
  * @link     Moka_Sweets https://www.mokasweets.com/
  */
-namespace App\Http\Controllers\WEB;
+namespace App\Http\Controllers\Web;
 
 use App\Branch;
 use App\Cart;
